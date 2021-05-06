@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Redrogue12/just-jotit-followup#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "dotenv": "^6.1.0",
+    "dotenv": "^9.0.0",
     "express": "^4.16.4",
     "joi": "^14.0.0",
     "jsonwebtoken": "^8.3.0",
